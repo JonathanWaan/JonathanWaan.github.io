@@ -1,0 +1,7 @@
+title: "Jonathan (Yukang) Wen"
+description: "Researcher in AI & Quantitative Finance"
+baseurl: ""   # important: keep empty for user site
+url: "https://jonathanwaan.github.io"
+
+markdown: kramdown
+theme: null
