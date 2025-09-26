@@ -8,3 +8,4 @@ vendor/
 
 # macOS system junk
 .DS_Store
+Gemfile
