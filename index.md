@@ -21,7 +21,7 @@ I am actively **seeking PhD opportunities starting in Fall 2026**.
 
 - **Factor Models for Reliable and Efficient AI Evaluation** (Co-first author)  
   *Submitted ICLR’26*  
-  - Invited talk: STAIR 2025  
+  *Invited talks: STAIR 2025*
 
 
 - **Gathering Context that Supports Decisions via Entropy Search with LLM** (Co-first author)  
