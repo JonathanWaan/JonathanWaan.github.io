@@ -63,9 +63,23 @@ code {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: #f7f7f7;
-  padding: 10px 30px;
+  padding: 12px 30px;
   border-bottom: 1px solid #ddd;
+
+  /* Background image */
+ /* background-image: url("/assets/bg_bar.jpg"); */
+  background-size: cover;      /* fill the width */
+  background-position: center; /* keep the focus centered */
+  color: white;                /* makes text/icons white for contrast */
+}
+
+.topbar a {
+  color: white;  /* ensure links/icons are visible */
+}
+
+
+.topbar a:hover {
+  color: #ffd700; /* gold highlight on hover */
 }
 
 .topbar-left .site-title {
@@ -120,4 +134,6 @@ main img.profile {
   height: 40px;
   border-radius: 50%;
   object-fit: cover;
+  margin-left: 15px;
+  border: 2px solid white; /* makes the avatar pop */
 }
