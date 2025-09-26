@@ -6,7 +6,7 @@ permalink: /background/
 
 # My Background
 
-I began my research journey in quantitative trading research in 2023, where I worked in both academia and industry on high-frequency trading strategies. That experience gave me a strong foundation in coding, mathematics, statistics, and understanding of market/economics, while also teaching me how to communicate results clearly, work under pressure, think critically, and present ideas and programs in high-stakes environments. I was especially proud to have launched two profitable strategies during my one year in industry and I am very grateful for my mentors' guidance.  
+I began my research journey in quantitative trading research in 2023, where I worked in both academia and industry on high-frequency trading strategies and option volatility surfaces (using Neural-SDE methods). That experience gave me a strong foundation in coding, mathematics, statistics, and understanding of market/economics, while also teaching me how to communicate results clearly, work under pressure, think critically, and present ideas and programs in high-stakes environments. I was especially proud to have launched two profitable strategies during my one year in industry and I am very grateful for my mentors' guidance.  
 
 Over time, I realized that academia in this area often leans too heavily on theory, while industry focuses on well-established ideas. I could not find a sustainable middle ground, and in the long run my interests began to diverge. This motivated me to pursue a research direction that combines technical depth with open, impactful problems and a strong sense of community.  
 
