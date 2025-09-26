@@ -74,16 +74,23 @@ code {
   text-decoration: none;
   color: #222;
 }
+
+.topbar-right {
+  display: flex;
+  align-items: center;
+  gap: 15px; /* space between links/icons */
+}
+
 .topbar-right a {
-  margin-left: 15px;
   font-size: 16px;
-  text-decoration: none;
   color: #444;
+  text-decoration: none;
 }
 
 .topbar-right a:hover {
   color: #0366d6;
 }
+
 
 /* Active tab styling */
 .topbar-right a.active {
@@ -105,4 +112,12 @@ main img.profile {
   margin: 0 0 15px 20px;
   width: 275px;
   border-radius: 8px;
+}
+
+/* Avatar image on the far right */
+.avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
 }
