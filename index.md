@@ -31,11 +31,11 @@ I am actively **seeking PhD opportunities starting in Fall 2026**.
 
 ## Education
 
-**University of Toronto**, MSc in Applied Computing Science  
+**University of Toronto**, MSc in Applied Computing  
 *Sept 2025 – Dec 2026*  
 - Coursework: Neural Networks, Database Management System, Blockchain Technologies  
 
-**University of Toronto**, BS in Computer Science  
+**University of Toronto**, BASs in Computer Engineering  
 *Sept 2020 – May 2025*  
 - GPA: 3.89/4.0  
 - Coursework: Machine Learning, Operating System, Distributed System, Stochastic Calculus (grad-level)  
