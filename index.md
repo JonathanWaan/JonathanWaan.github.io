@@ -8,10 +8,10 @@ layout: default
 ![Profile photo](/assets/profile.jpg){: .profile}
 
 I work on large language model evaluation, inference, and reasoning, drawing on my background in engineering and tools in probabilistic machine learning. My research aims to design evaluation frameworks that are rigorous and scalable. By advancing tools for measurement science, I seek to generate insights that not only improve model reliability in practice but also contribute to the broader scientific progress toward building safe, trustworthy, and reliable AI systems. 
-
+<!-- 
 I am actively **seeking PhD opportunities starting in Fall 2026**.
 
-[Download CV (PDF)](/assets/Jonathan_Resume.pdf)  
+[Download CV (PDF)](/assets/Jonathan_Resume.pdf)   -->
 
 
 
